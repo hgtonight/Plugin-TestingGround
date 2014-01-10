@@ -1,5 +1,5 @@
 <?php if (!defined('APPLICATION')) exit();
-/*	Copyright 2013 Zachary Doll
+/*	Copyright 2014 Zachary Doll
 *	This program is free software: you can redistribute it and/or modify
 *	it under the terms of the GNU General Public License as published by
 *	the Free Software Foundation, either version 3 of the License, or

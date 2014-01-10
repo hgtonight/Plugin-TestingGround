@@ -1,4 +1,4 @@
-/* Copyright 2013 Zachary Doll */
+/* Copyright 2014 Zachary Doll */
 jQuery(document).ready(function($) {
 
 });
